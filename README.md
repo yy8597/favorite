@@ -2,5 +2,5 @@ favorite
 ========
 
 ## Utils
-[Classnames](https://github.com/JedWatson/classnames)
+[Classnames](https://github.com/JedWatson/classnames) \
 [uncontrollable](https://github.com/jquense/uncontrollable)

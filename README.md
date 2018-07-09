@@ -10,3 +10,5 @@ favorite
 ## machine-learning
 - [ml](https://github.com/mljs/ml)
 
+## Rich Text
+- [slate](https://github.com/ianstormtaylor/slate)

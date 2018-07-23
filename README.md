@@ -12,3 +12,4 @@ favorite
 
 ## Rich Text
 - [slate](https://github.com/ianstormtaylor/slate)
+- [react-quill](https://github.com/zenoamaro/react-quill)

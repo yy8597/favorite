@@ -13,3 +13,7 @@ favorite
 ## Rich Text
 - [slate](https://github.com/ianstormtaylor/slate)
 - [react-quill](https://github.com/zenoamaro/react-quill)
+
+## placeholder loading
+- [react-content-loader](https://github.com/danilowoz/react-content-loader)
+- [page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin)

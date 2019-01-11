@@ -25,3 +25,7 @@ favorite
 
 ## tools
 - [Now — Global Serverless Deployments](https://zeit.co/now)
+
+
+## develop
+- [Adding a CSS Preprocessor (Sass, Less etc.) with node-sass-chokidar](https://github.com/franva/custom-react-scripts/blob/master/README.md#adding-a-css-preprocessor-sass-less-etc)
